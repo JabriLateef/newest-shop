@@ -1,0 +1,2196 @@
+{
+    "version": "0.4",
+    "title": "Home",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "page",
+        "additional_template_information": [
+            "This is a \"Page\" template for Elementor Pro."
+        ],
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "71b474d1",
+            "settings": {
+                "flex_direction": "row",
+                "flex_justify_content": "flex-end",
+                "flex_align_items": "flex-start",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "flex_direction_tablet": "column"
+            },
+            "elements": [
+                {
+                    "id": "6a245aae",
+                    "settings": {
+                        "flex_direction": "row",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 66.66
+                        },
+                        "flex_justify_content": "space-between",
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7f78404b",
+                            "settings": {
+                                "content_width": "full",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "-300",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "18203b40",
+                                    "settings": {
+                                        "title": "Thrift it.<br \/>Flip it.<br \/>Flex it.",
+                                        "header_size": "h1",
+                                        "_element_width": "inherit",
+                                        "_z_index": 2,
+                                        "__globals__": {
+                                            "title_color": "globals\/colors?id=accent",
+                                            "typography_typography": "globals\/typography?id=4881c23"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "428b685b",
+                                    "settings": {
+                                        "title": "Sustainable style that slaps \u2014 for way less.",
+                                        "header_size": "p",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "_padding": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7b94d006",
+                                    "settings": {
+                                        "text": "Shop now",
+                                        "_z_index": 10,
+                                        "__globals__": {
+                                            "button_text_color": "globals\/colors?id=ac5b693",
+                                            "background_color": "globals\/colors?id=c39bd35",
+                                            "button_background_hover_color": "globals\/colors?id=d5fd0cf",
+                                            "hover_color": "globals\/colors?id=ac5b693"
+                                        },
+                                        "hide_desktop": "hidden-desktop"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "4c647e15",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "662ef20a",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-02.jpg",
+                                            "id": 35,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "6cbdf503",
+                                    "settings": {
+                                        "text": "Shop now",
+                                        "_z_index": 10,
+                                        "__globals__": {
+                                            "button_text_color": "globals\/colors?id=ac5b693",
+                                            "background_color": "globals\/colors?id=c39bd35",
+                                            "button_background_hover_color": "globals\/colors?id=d5fd0cf",
+                                            "hover_color": "globals\/colors?id=ac5b693"
+                                        },
+                                        "hide_tablet": "hidden-tablet",
+                                        "hide_mobile": "hidden-mobile"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "5bab0698",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 33.33
+                        },
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-01.jpg",
+                            "id": 33,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7a0f0cb4",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 600,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "479e4b90",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "column": "100",
+                    "row": "100",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 100
+                }
+            },
+            "elements": [
+                {
+                    "id": "600be55d",
+                    "settings": {
+                        "text": "Divider",
+                        "gap": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "color": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "divider",
+                    "elType": "widget"
+                },
+                {
+                    "id": "492736f8",
+                    "settings": {
+                        "title": "Last drop",
+                        "__globals__": {
+                            "typography_typography": "globals\/typography?id=eb7974c"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "heading",
+                    "elType": "widget"
+                },
+                {
+                    "id": "21a706ec",
+                    "settings": {
+                        "rows": 1,
+                        "products_related_products_title_text": "Related Products",
+                        "products_upsells_title_text": "You may also like...",
+                        "products_cross_sells_title_text": "You may be interested in...",
+                        "column_gap": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        },
+                        "button_border_border": "none",
+                        "button_border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "button_text_padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "40",
+                            "bottom": "20",
+                            "left": "40",
+                            "isLinked": false
+                        },
+                        "automatically_align_buttons": "yes",
+                        "__globals__": {
+                            "title_typography_typography": "globals\/typography?id=a52babd",
+                            "star_color": "globals\/colors?id=text",
+                            "price_color": "globals\/colors?id=00f43cc",
+                            "old_price_color": "globals\/colors?id=00f43cc",
+                            "button_text_color": "globals\/colors?id=ac5b693",
+                            "button_background_color": "globals\/colors?id=c39bd35",
+                            "button_typography_typography": "globals\/typography?id=accent",
+                            "button_hover_color": "globals\/colors?id=ac5b693",
+                            "button_hover_background_color": "globals\/colors?id=d5fd0cf",
+                            "onsale_text_background_color": "globals\/colors?id=371cfbe",
+                            "onsale_text_color": "globals\/colors?id=ac5b693",
+                            "onsale_typography_typography": "globals\/typography?id=accent",
+                            "view_cart_color": "globals\/colors?id=c39bd35",
+                            "view_cart_typography_typography": "globals\/typography?id=accent"
+                        },
+                        "image_border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "view_cart_spacing": {
+                            "unit": "px",
+                            "size": 20,
+                            "sizes": []
+                        },
+                        "box_border_radius": {
+                            "unit": "px",
+                            "size": 5,
+                            "sizes": []
+                        },
+                        "onsale_border_radius": {
+                            "unit": "px",
+                            "size": 5,
+                            "sizes": []
+                        },
+                        "onsale_width": {
+                            "unit": "px",
+                            "size": 80,
+                            "sizes": []
+                        },
+                        "onsale_height": {
+                            "unit": "px",
+                            "size": 35,
+                            "sizes": []
+                        },
+                        "onsale_horizontal_position": "right",
+                        "onsale_distance": {
+                            "unit": "px",
+                            "size": 8,
+                            "sizes": []
+                        },
+                        "columns_tablet": 2,
+                        "columns_mobile": 1,
+                        "column_gap_tablet": {
+                            "unit": "px",
+                            "size": 40,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "woocommerce-products",
+                    "elType": "widget"
+                },
+                {
+                    "id": "2943bb26",
+                    "settings": {
+                        "text": "Divider",
+                        "gap": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "color": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "divider",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "7c6d2d45",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 40,
+                    "column": "40",
+                    "row": "40"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "54f707be",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2da025d7",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-11.jpg",
+                                    "id": 201,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "link_to": "custom",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "a686223",
+                            "settings": {
+                                "title": "Shop Men",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=f508d7a",
+                                    "title_color": "globals\/colors?id=c39bd35",
+                                    "title_hover_color": "globals\/colors?id=d5fd0cf"
+                                },
+                                "header_size": "h3",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "title_hover_color_transition_duration": {
+                                    "unit": "s",
+                                    "size": 0.3,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "4298acf1",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5aab7c32",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-12.jpg",
+                                    "id": 200,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "link_to": "custom",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "19920a7e",
+                            "settings": {
+                                "title": "Shop Women",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=f508d7a",
+                                    "title_color": "globals\/colors?id=c39bd35",
+                                    "title_hover_color": "globals\/colors?id=d5fd0cf"
+                                },
+                                "header_size": "h3",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "title_hover_color_transition_duration": {
+                                    "unit": "s",
+                                    "size": 0.3,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "5ee750cd",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": "50"
+                        },
+                        "flex_justify_content": "space-between"
+                    },
+                    "elements": [
+                        {
+                            "id": "7ec271ea",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-16.jpg",
+                                    "id": 427,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "link_to": "custom",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "54e7404a",
+                            "settings": {
+                                "title": "Shop Vintage",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=f508d7a",
+                                    "title_color": "globals\/colors?id=c39bd35",
+                                    "title_hover_color": "globals\/colors?id=d5fd0cf"
+                                },
+                                "header_size": "h3",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "title_hover_color_transition_duration": {
+                                    "unit": "s",
+                                    "size": 0.3,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "5b7d1d75",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "flex_align_items": "center"
+            },
+            "elements": [
+                {
+                    "id": "2420d1dc",
+                    "settings": {
+                        "text": "Divider",
+                        "gap": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "color": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "divider",
+                    "elType": "widget"
+                },
+                {
+                    "id": "d6915bc",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "flex_gap": {
+                            "column": "40",
+                            "row": "40",
+                            "isLinked": true,
+                            "unit": "px",
+                            "size": 40
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "55",
+                            "right": "0",
+                            "bottom": "55",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "flex_direction_tablet": "column"
+                    },
+                    "elements": [
+                        {
+                            "id": "18055800",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "flex_gap": {
+                                    "column": "100",
+                                    "row": "100",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 100
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "28a16d8b",
+                                    "settings": {
+                                        "title": "We handpick the best preloved vintage, designer, and high street gems \u2014 giving you a guilt-free way to shop without adding more waste to the planet. Every piece comes from recycling centres, not factories. \n<br \/><br \/>\nSustainable, stylish, and 100% real \u2014 this is your antidote to fast fashion.",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=b843530"
+                                        },
+                                        "header_size": "p",
+                                        "_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "60",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 88,
+                                            "sizes": []
+                                        },
+                                        "_margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "66a8e5de",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-13.jpg",
+                                            "id": 229,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "image_size": "full",
+                                        "align": "left",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "51b8c162",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "flex_direction": "column",
+                                "flex_justify_content": "space-between",
+                                "flex_align_items": "flex-end",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "flex_direction_tablet": "row-reverse",
+                                "flex_align_items_tablet": "flex-start"
+                            },
+                            "elements": [
+                                {
+                                    "id": "407b4a72",
+                                    "settings": {
+                                        "image": {
+                                            "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-10.jpg",
+                                            "id": 174,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "image",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1664986e",
+                                    "settings": {
+                                        "slides_name": "Slides",
+                                        "slides": [
+                                            {
+                                                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "name": "Jessica",
+                                                "title": "Miami, FL",
+                                                "image": {
+                                                    "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-08.jpg",
+                                                    "id": 141,
+                                                    "alt": "",
+                                                    "source": "library",
+                                                    "size": ""
+                                                },
+                                                "_id": "cb132bb"
+                                            },
+                                            {
+                                                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "name": "Ashley",
+                                                "title": "Denver, CO",
+                                                "image": {
+                                                    "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-02.jpg",
+                                                    "id": 35,
+                                                    "alt": "",
+                                                    "source": "library",
+                                                    "size": ""
+                                                },
+                                                "_id": "cc51dba"
+                                            },
+                                            {
+                                                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "name": "Brandon",
+                                                "title": "Chicago, IL",
+                                                "image": {
+                                                    "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/i-think-therefore-i-am-not-tshirt-black-male.jpg",
+                                                    "id": 383,
+                                                    "alt": "",
+                                                    "source": "library",
+                                                    "size": ""
+                                                },
+                                                "_id": "2984a65"
+                                            },
+                                            {
+                                                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "name": "David",
+                                                "title": "Houston, TX",
+                                                "image": {
+                                                    "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-27.jpg",
+                                                    "id": 587,
+                                                    "alt": "",
+                                                    "source": "library",
+                                                    "size": ""
+                                                },
+                                                "_id": "f65aae5"
+                                            }
+                                        ],
+                                        "alignment": "left",
+                                        "slides_per_view": "1",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "show_arrows": "",
+                                        "pagination": "",
+                                        "space_between": {
+                                            "unit": "px",
+                                            "size": 40,
+                                            "sizes": []
+                                        },
+                                        "slide_padding": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "40",
+                                            "bottom": "40",
+                                            "left": "40",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "slide_background_color": "globals\/colors?id=00f43cc",
+                                            "content_color": "globals\/colors?id=ac5b693",
+                                            "content_typography_typography": "globals\/typography?id=a52babd",
+                                            "name_color": "globals\/colors?id=ac5b693",
+                                            "name_typography_typography": "globals\/typography?id=text",
+                                            "title_color": "globals\/colors?id=02d7c66",
+                                            "title_typography_typography": "globals\/typography?id=text"
+                                        },
+                                        "slide_border_radius": {
+                                            "unit": "px",
+                                            "size": 5,
+                                            "sizes": []
+                                        },
+                                        "image_size_size": "thumbnail",
+                                        "_element_custom_width": {
+                                            "unit": "%",
+                                            "size": 60,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "testimonial-carousel",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "64ac3470",
+                    "settings": {
+                        "text": "Divider",
+                        "gap": {
+                            "unit": "px",
+                            "size": 0,
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "color": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "divider",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "d2751d8",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 40,
+                    "column": "40",
+                    "row": "0"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "flex_direction_tablet": "column",
+                "flex_gap_tablet": {
+                    "column": "40",
+                    "row": "40",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 40
+                }
+            },
+            "elements": [
+                {
+                    "id": "7bc50874",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 41
+                        },
+                        "flex_justify_content": "flex-end",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-06.jpg",
+                            "id": 105,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "11ce9012",
+                            "settings": {
+                                "content_width": "full",
+                                "background_background": "classic",
+                                "background_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "background_position": "center center",
+                                "background_repeat": "repeat",
+                                "background_size": "cover",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "14cc3a17",
+                                    "settings": {
+                                        "title": "The Trend Boxes \u2013 Your Style, Curated.",
+                                        "__globals__": {
+                                            "typography_typography": "globals\/typography?id=f508d7a",
+                                            "title_color": "globals\/colors?id=c39bd35"
+                                        },
+                                        "header_size": "h3",
+                                        "text_shadow_text_shadow_type": "yes",
+                                        "text_shadow_text_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 0,
+                                            "blur": 20,
+                                            "color": "rgba(255, 255, 255, 0.8)"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "2c074408",
+                                    "settings": {
+                                        "text": "Unbox your outfit",
+                                        "_z_index": 10,
+                                        "__globals__": {
+                                            "button_text_color": "globals\/colors?id=ac5b693",
+                                            "background_color": "globals\/colors?id=d5fd0cf",
+                                            "button_background_hover_color": "globals\/colors?id=371cfbe",
+                                            "hover_color": "globals\/colors?id=ac5b693"
+                                        },
+                                        "_flex_size": "none"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "500d8346",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 59
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3739328d",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row"
+                            },
+                            "elements": [
+                                {
+                                    "id": "268028b3",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-26.jpg",
+                                            "id": 586,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "background_position": "center center",
+                                        "background_repeat": "repeat",
+                                        "background_size": "cover",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "40",
+                                            "bottom": "40",
+                                            "left": "40",
+                                            "isLinked": true
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "624fc3ea",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "column"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "720192fb",
+                                                    "settings": {
+                                                        "space": {
+                                                            "unit": "px",
+                                                            "size": 200,
+                                                            "sizes": []
+                                                        },
+                                                        "space_mobile": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "spacer",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "d040cac",
+                                                    "settings": {
+                                                        "title": "New\nMystery Wholesale Boxes",
+                                                        "__globals__": {
+                                                            "typography_typography": "globals\/typography?id=f508d7a",
+                                                            "title_color": "globals\/colors?id=ac5b693"
+                                                        },
+                                                        "header_size": "h3"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "5855e8bd",
+                                                    "settings": {
+                                                        "text": "Explore Styles",
+                                                        "_z_index": 10,
+                                                        "__globals__": {
+                                                            "button_text_color": "globals\/colors?id=ac5b693",
+                                                            "background_color": "globals\/colors?id=d5fd0cf",
+                                                            "button_background_hover_color": "globals\/colors?id=371cfbe",
+                                                            "hover_color": "globals\/colors?id=ac5b693"
+                                                        },
+                                                        "_flex_size": "none"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "button",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "1e43d79e",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-08.jpg",
+                                            "id": 141,
+                                            "size": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "background_position": "center center",
+                                        "background_repeat": "repeat",
+                                        "background_size": "cover",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "40",
+                                            "bottom": "40",
+                                            "left": "40",
+                                            "isLinked": true
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "5",
+                                            "right": "5",
+                                            "bottom": "5",
+                                            "left": "5",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3a0327c5",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "column"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "6e7278d8",
+                                                    "settings": {
+                                                        "space": {
+                                                            "unit": "px",
+                                                            "size": 200,
+                                                            "sizes": []
+                                                        },
+                                                        "space_mobile": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "spacer",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "97b072e",
+                                                    "settings": {
+                                                        "title": "Limited Edition & Luxury Items",
+                                                        "__globals__": {
+                                                            "typography_typography": "globals\/typography?id=f508d7a",
+                                                            "title_color": "globals\/colors?id=ac5b693"
+                                                        },
+                                                        "header_size": "h3"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "27ea56f1",
+                                                    "settings": {
+                                                        "text": "Shop vintage",
+                                                        "_z_index": 10,
+                                                        "__globals__": {
+                                                            "button_text_color": "globals\/colors?id=ac5b693",
+                                                            "background_color": "globals\/colors?id=d5fd0cf",
+                                                            "button_background_hover_color": "globals\/colors?id=371cfbe",
+                                                            "hover_color": "globals\/colors?id=ac5b693"
+                                                        },
+                                                        "_flex_size": "none"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "button",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "3bd15a81",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 100,
+                    "column": "100",
+                    "row": "100"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "flex_direction_tablet": "column-reverse"
+            },
+            "elements": [
+                {
+                    "id": "e32f9b6",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 60
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1c151e64",
+                            "settings": {
+                                "youtube_url": "https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E",
+                                "vimeo_url": "https:\/\/vimeo.com\/235215203",
+                                "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                "videopress_url": "https:\/\/videopress.com\/v\/ZCAOzTNk",
+                                "show_image_overlay": "yes",
+                                "image_overlay": {
+                                    "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-04.jpg",
+                                    "id": 31,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "aspect_ratio": "43"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "video",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "5e9253a8",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 40
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "60",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6b4511d4",
+                            "settings": {
+                                "title": "Thrifted heat. Sustainable street.",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=eb7974c",
+                                    "title_color": "globals\/colors?id=accent"
+                                },
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "be162e",
+                            "settings": {
+                                "paragraph_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "741e4041",
+                            "settings": {
+                                "text": "Divider",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "580cb802",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_justify_content": "space-between",
+                                "flex_direction_mobile": "column"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4fd53d2e",
+                                    "settings": {
+                                        "title": "C02 saved",
+                                        "title_horizontal_alignment": "start",
+                                        "title_gap": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "number_position": "start",
+                                        "__globals__": {
+                                            "typography_number_typography": "globals\/typography?id=cbdd3b9",
+                                            "title_color": "globals\/colors?id=00f43cc",
+                                            "typography_title_typography": "globals\/typography?id=secondary",
+                                            "number_color": "globals\/colors?id=00f43cc"
+                                        },
+                                        "starting_number": 1000,
+                                        "ending_number": 2500
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "counter",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "24034364",
+                                    "settings": {
+                                        "title": "water saved",
+                                        "title_horizontal_alignment": "start",
+                                        "title_gap": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "number_position": "start",
+                                        "__globals__": {
+                                            "typography_number_typography": "globals\/typography?id=cbdd3b9",
+                                            "title_color": "globals\/colors?id=00f43cc",
+                                            "typography_title_typography": "globals\/typography?id=secondary",
+                                            "number_color": "globals\/colors?id=00f43cc"
+                                        },
+                                        "ending_number": 6500
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "counter",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "ccb6da1",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "border_radius": {
+                    "unit": "px",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "467602d9",
+                    "settings": {
+                        "content_width": "full",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/awakenedtemplates.com\/thrift\/wp-content\/uploads\/sites\/27\/2025\/11\/thrift-05.jpg",
+                            "id": 32,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_attachment": "scroll",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "background_motion_fx_translateX_effect": "yes",
+                        "padding": {
+                            "unit": "px",
+                            "top": "300",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "9ada37a",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 66.66,
+                                    "sizes": []
+                                },
+                                "flex_direction": "row",
+                                "flex_gap": {
+                                    "column": "100",
+                                    "row": "100",
+                                    "isLinked": true,
+                                    "unit": "px",
+                                    "size": 100
+                                },
+                                "background_background": "classic",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "100",
+                                    "bottom": "100",
+                                    "left": "100",
+                                    "isLinked": true
+                                },
+                                "_flex_align_self": "flex-start",
+                                "_flex_order": "start",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=00f43cc"
+                                },
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "flex_direction_tablet": "column",
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "4dada4b7",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 70,
+                                            "sizes": []
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3bbfda81",
+                                            "settings": {
+                                                "before_text": "We can't do it without ",
+                                                "highlighted_text": "you.",
+                                                "rotating_text": "Better\nBigger\nFaster",
+                                                "alignment": "left",
+                                                "stroke_width": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=ac5b693",
+                                                    "words_color": "globals\/colors?id=ac5b693",
+                                                    "marker_color": "globals\/colors?id=371cfbe",
+                                                    "title_typography_typography": "globals\/typography?id=eb7974c",
+                                                    "words_typography_typography": "globals\/typography?id=f508d7a"
+                                                },
+                                                "loop": "",
+                                                "above_content": "yes"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "animated-headline",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3f8166d0",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Get involved",
+                                                        "_id": "1f21818"
+                                                    },
+                                                    {
+                                                        "text": "Get rewarded",
+                                                        "_id": "7755078"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 40,
+                                                    "sizes": []
+                                                },
+                                                "text_indent": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=ac5b693",
+                                                    "text_color": "globals\/colors?id=ac5b693",
+                                                    "icon_color_hover": "globals\/colors?id=ac5b693",
+                                                    "icon_typography_typography": "globals\/typography?id=accent"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "595f7fb6",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "row"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "46520840",
+                                                    "settings": {
+                                                        "text": "Donate",
+                                                        "_z_index": 10,
+                                                        "__globals__": {
+                                                            "button_text_color": "globals\/colors?id=ac5b693",
+                                                            "background_color": "globals\/colors?id=c39bd35",
+                                                            "button_background_hover_color": "globals\/colors?id=d5fd0cf",
+                                                            "hover_color": "globals\/colors?id=ac5b693"
+                                                        },
+                                                        "align_mobile": "justify"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "button",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "4f5168be",
+                                                    "settings": {
+                                                        "text": "Volunteer",
+                                                        "_z_index": 10,
+                                                        "__globals__": {
+                                                            "button_text_color": "globals\/colors?id=ac5b693",
+                                                            "background_color": "globals\/colors?id=c39bd35",
+                                                            "button_background_hover_color": "globals\/colors?id=d5fd0cf",
+                                                            "hover_color": "globals\/colors?id=ac5b693"
+                                                        },
+                                                        "align_mobile": "justify",
+                                                        "content_align_mobile": "space-between"
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "button",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "56fb5244",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 30,
+                                            "sizes": []
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4b6db232",
+                                            "settings": {
+                                                "paragraph_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "typography_typography": "globals\/typography?id=text",
+                                                    "text_color": "globals\/colors?id=ac5b693"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1e67a8ae",
+                                            "settings": {
+                                                "text": "Divider",
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=ac5b693"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2da01722",
+                                            "settings": {
+                                                "suffix": "K",
+                                                "title": "members",
+                                                "title_horizontal_alignment": "start",
+                                                "title_gap": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "number_position": "start",
+                                                "number_stroke_text_stroke": {
+                                                    "unit": "px",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "typography_number_typography": "globals\/typography?id=cbdd3b9",
+                                                    "title_color": "globals\/colors?id=ac5b693",
+                                                    "typography_title_typography": "globals\/typography?id=secondary",
+                                                    "number_color": "globals\/colors?id=ac5b693",
+                                                    "number_stroke_stroke_color": "globals\/colors?id=ac5b693"
+                                                },
+                                                "ending_number": 110
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "7a27f98f",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "unit": "px",
+                    "size": 100,
+                    "column": "100",
+                    "row": "100"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "flex_direction_tablet": "column"
+            },
+            "elements": [
+                {
+                    "id": "e83dcc8",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 33.333
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5e45dadd",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-star-of-life",
+                                    "library": "fa-solid"
+                                },
+                                "view": "stacked",
+                                "title_text": "Authentic",
+                                "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                "text_align": "left",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_typography_typography": "globals\/typography?id=b843530",
+                                    "description_color": "globals\/colors?id=text",
+                                    "primary_color": "globals\/colors?id=secondary",
+                                    "secondary_color": "globals\/colors?id=ac5b693",
+                                    "hover_primary_color": "globals\/colors?id=371cfbe",
+                                    "hover_secondary_color": "globals\/colors?id=ac5b693"
+                                },
+                                "shape": "rounded",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "4e230c38",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 33.333
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "17248ef6",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-star-of-life",
+                                    "library": "fa-solid"
+                                },
+                                "view": "stacked",
+                                "title_text": "Sustainable",
+                                "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                "text_align": "left",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_typography_typography": "globals\/typography?id=b843530",
+                                    "description_color": "globals\/colors?id=text",
+                                    "primary_color": "globals\/colors?id=secondary",
+                                    "secondary_color": "globals\/colors?id=ac5b693",
+                                    "hover_primary_color": "globals\/colors?id=371cfbe",
+                                    "hover_secondary_color": "globals\/colors?id=ac5b693"
+                                },
+                                "shape": "rounded",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "216551f9",
+                    "settings": {
+                        "flex_direction": "column",
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 33.333
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6010b700",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-star-of-life",
+                                    "library": "fa-solid"
+                                },
+                                "view": "stacked",
+                                "title_text": "Affordable",
+                                "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                "text_align": "left",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "icon_padding": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_typography_typography": "globals\/typography?id=b843530",
+                                    "description_color": "globals\/colors?id=text",
+                                    "primary_color": "globals\/colors?id=secondary",
+                                    "secondary_color": "globals\/colors?id=ac5b693",
+                                    "hover_primary_color": "globals\/colors?id=371cfbe",
+                                    "hover_secondary_color": "globals\/colors?id=ac5b693"
+                                },
+                                "shape": "rounded",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer"
+    }
+}
